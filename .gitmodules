@@ -1,3 +1,6 @@
 [submodule "fame-modeler"]
 	path = fame-modeler
 	url = https://github.com/SaraPettinari/fame-modeler
+[submodule "fame-engine"]
+	path = fame-engine
+	url = https://github.com/SaraPettinari/fame-engine
