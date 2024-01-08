@@ -1,0 +1,3 @@
+[submodule "fame-modeler"]
+	path = fame-modeler
+	url = https://github.com/SaraPettinari/fame-modeler
