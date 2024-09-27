@@ -1,6 +1,8 @@
 [submodule "fame-modeler"]
 	path = fame-modeler
 	url = https://github.com/SaraPettinari/fame-modeler
+	branch = main
 [submodule "fame-ros"]
 	path = fame-ros
 	url = https://github.com/SaraPettinari/fame-ros
+	branch = main
